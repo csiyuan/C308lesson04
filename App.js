@@ -61,10 +61,10 @@ class Clock extends React.Component {
 const WorldClock = () =>{
     return (
         <View>
-          <Clock name="Asia/Singapore" />
-          <Clock name="Europe/London" />
-          <Clock name="America/New_York" />
-          <Clock name="Europe/Oslo" />
+          <Clock name="America/Mexico_City" />
+          <Clock name="Hongkong" />
+          <Clock name="US/Hawaii" />
+          <Clock name="Singapore" />
         </View>
     );
 }
